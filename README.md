@@ -50,9 +50,11 @@ End setup instructions
 -->
 
 4. Install dependencies
+
 ```
 yarn install
 ```
+
 5. Customize the code as needed.
 6. Start the LangGraph Server.
 
