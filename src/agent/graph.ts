@@ -61,7 +61,7 @@ const callModel = async (
     messages: [
       {
         role: "assistant",
-        content: `Hi there! How are you?`,
+        content: "Boom ... way to go @Christian Clogg",
       },
     ],
   };
